@@ -1,0 +1,2 @@
+# telegraf-config
+
